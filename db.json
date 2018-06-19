@@ -3,6 +3,7 @@
     {
       "CourseId": "x123",
       "CourseName": "CiE",
+      "id": 1,
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
       "CourseStart": "bla",
