@@ -5,8 +5,8 @@
       "CourseName": "CiE",
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
-      CourseStart: "bla",
-      CourseEnd: "bla"
+      "CourseStart": "bla",
+      "CourseEnd": "bla"
     }
     
   ]
