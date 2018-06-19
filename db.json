@@ -17,6 +17,15 @@
       "CourseLocation": "Lothstrasse",
       "CourseStart": "bla",
       "CourseEnd": "bla"
+    },
+    {
+      "CourseId": "x125",
+      "CourseName": "Suicide Squad",
+      "id": 3,
+      "CourseFaculty": "FK09",
+      "CourseLocation": "Karlstrasse",
+      "CourseStart": "bla",
+      "CourseEnd": "bla"
     }
   ]
 }
