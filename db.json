@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "courses":[
     {
-      "id": 1,
-      "title": "hello"
+      "CourseId": "x123",
+      "CourseName": "CiE",
+      "CourseFaculty": "FK09",
+      "CourseLocation": "Lothstrasse",
+      CourseStart: "bla",
+      CourseEnd: "bla"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    
+  ]
 }
