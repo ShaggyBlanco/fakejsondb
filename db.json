@@ -6,8 +6,8 @@
       "id": 1,
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
-      "CourseStart": "bla",
-      "CourseEnd": "bla"
+      "CourseStart": "20180321T164500Z",
+      "CourseEnd": "20180321T201500Z"
     },
     {
       "CourseId": "x124",
@@ -15,8 +15,8 @@
       "id": 2,
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
-      "CourseStart": "bla",
-      "CourseEnd": "bla"
+      "CourseStart": "20180321T164500Z",
+      "CourseEnd": "20180321T201500Z"
     },
     {
       "CourseId": "x125",
@@ -24,8 +24,8 @@
       "id": 3,
       "CourseFaculty": "FK09",
       "CourseLocation": "Karlstrasse",
-      "CourseStart": "bla",
-      "CourseEnd": "bla"
+      "CourseStart": "20180406T140000Z",
+      "CourseEnd": "20180406T190000Z"
     }
   ]
 }
