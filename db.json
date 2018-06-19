@@ -9,6 +9,7 @@
       "CourseStart": "bla",
       "CourseEnd": "bla"
     },
+    {
       "CourseId": "x124",
       "CourseName": "Murican Democracy",
       "id": 1,
@@ -16,7 +17,6 @@
       "CourseLocation": "Lothstrasse",
       "CourseStart": "bla",
       "CourseEnd": "bla"
-    {
     }
   ]
 }
