@@ -8,7 +8,15 @@
       "CourseLocation": "Lothstrasse",
       "CourseStart": "bla",
       "CourseEnd": "bla"
+    },
+      "CourseId": "x124",
+      "CourseName": "Murican Democracy",
+      "id": 1,
+      "CourseFaculty": "FK09",
+      "CourseLocation": "Lothstrasse",
+      "CourseStart": "bla",
+      "CourseEnd": "bla"
+    {
     }
-    
   ]
 }
