@@ -2,7 +2,7 @@
   "courses":[
     {
       "CourseId": "x123",
-      "CourseName": "CiE",
+      "CourseName": "SampleName1",
       "id": 1,
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
@@ -11,7 +11,7 @@
     },
     {
       "CourseId": "x124",
-      "CourseName": "Murican Democracy",
+      "CourseName": "SampleName2",
       "id": 2,
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
@@ -20,7 +20,7 @@
     },
     {
       "CourseId": "x125",
-      "CourseName": "Suicide Squad",
+      "CourseName": "SampleName3",
       "id": 3,
       "CourseFaculty": "FK09",
       "CourseLocation": "Lothstrasse",
